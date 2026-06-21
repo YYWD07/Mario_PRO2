@@ -1,4 +1,4 @@
-# 创建
+# 初始化创建
 git init
 
 # 保存
@@ -39,7 +39,7 @@ git reset --hard <commit-hash>
 9. 复制
 
 # 首次推送到远程网站仓库，建立关联
-git remote add origin https://github.com/YYWD2007/mario-pro2.git
+git remote add origin ***
 git branch -M main
 git config pull.rebase false
 git pull origin main --allow-unrelated-histories

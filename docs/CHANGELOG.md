@@ -14,3 +14,6 @@
 # 新功能 Part2
 - finder.hh
 - 硬币和平台都创建了finder对象
+
+# Part3
+- 传送...
